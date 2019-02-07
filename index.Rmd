@@ -1,5 +1,12 @@
 ---
 title: "Who is Tyler Borden?"
 ---
+I am a Computer Science major currently in my senior year at Appalachian State University. I am from Fuquay-Varina, NC and graduated from Harnett Central High School. I currently work at Bojangles in Boone, NC but am looking to become a software developer in NC after graduation. My interests include:  
 
-Hello, Website!
+* Programming
+    + Python
+    + Java
+    + C++
+* Technology
+* Video Games
+* Hiking, Skiing, and Running
