@@ -10,3 +10,6 @@ I am a Computer Science major currently in my senior year at Appalachian State U
 * Technology
 * Video Games
 * Hiking, Skiing, and Running
+
+
+![I'm in the red](FourSquare.jpg)
