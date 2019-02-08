@@ -2,16 +2,7 @@
 title: "Tyler Borden's Resume"
 ---
 
-Tyler Borden 
-Address: 3245 Hwy 421 N, Boone NC, 28607 
-Phone: (910) 890-1450 Email: tborden96@gmail.com 
-\n EDUCATION Appalachian State University, Boone, NC   Bachelor of Science in Computer Science                 May 2019 Deans List for 6 semesters                  3.55 GPA  SKILLS • Proficiency in Java • Member of the Association of Information Technology Professionals (AITP) • Versed in Python and C++ • Certified in Microsoft Office 2013 
-• Basic knowledge of SQL, PHP, HTML, and R 
-• Experience working in groups and as a team  
-• Have taken classes in android development, cyber security, computer systems, machine learning, data structures, and software design patterns. 
-• Eagle Scout since 2015 with leadership experience as Senior Patrol Leader in Boy Scout Troop 75 
-PROJECTS Y86 Pipeline Machine Simulator Fall 2017 • Worked with a partner to create a Y-86 Pipeline machine to read assembly code. • Coded in C++ that read assembly code, can read and write to memory, and perform bit twiddling on 64-bit binary numbers. 
- 
-Database Project Fall 2018 • Worked in a group to create a webpage in PHP that utilized a SQL database. • Would grab events out of a database and display them based on the year they occurred. 
- 
-Pomodoro Timer App Fall 2019 • Created an android app that mimicked the functionality of a pomodoro timer. Keep track of work on personal projects showing how long you have worked and when you should take a break. • Used countdown timers, different widgets, ability to keep track of multiple projects, and incorporated timer sounds and notifications. WORK EXPERIENCE Bojangles, Boone              August 2017-Present Front Counter Clerk and Kitchen Staff • Welcomed customers to the store and answered questions, requests, complaints in order to provide excellent customer service. • Helped manage the staff in coordinating close and preparing for rushes. • Handled money for front counter and drive-thru while simultaneously taking orders and preparing orders. Papa Johns, Fuquay-Varina, NC         June 2016-August 2017 Front Counter Clerk  • Interacted with customers as soon as they enter the restaurant and help ascertain their goal for visiting. • Handled money for front counter and would use a POS to take orders in person and over phone. 
+![](ResumeImage.png)
+
+<center> <h1>Tyler Borden</h1> </center>
+Address: 3245 Hwy 421 N, Boone NC, 28607\t  Phone: (910)890-1450     Email: tborden96@gmail.com
