@@ -1,8 +1,4 @@
 ---
 title: "Tyler Borden's Resume"
 ---
-
-![](ResumeImage.png)
-
-<center> <h1>Tyler Borden</h1> </center>
-Address: 3245 Hwy 421 N, Boone NC, 28607\t  Phone: (910)890-1450     Email: tborden96@gmail.com
+![](ResumeImg.png)
