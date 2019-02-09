@@ -8,8 +8,10 @@ navbar:
       href: resume.html
     - text: "Important Links"
       href: links.html
+    - text: "Repo Where This Exists"
+      href: https://github.com/bordentb/bordentb.github.io
 
 output:
   html_document:
-    highlight: default
+    highlight: pygments
     theme: flatly
